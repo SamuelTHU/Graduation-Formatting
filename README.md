@@ -8,6 +8,8 @@ This is a Microsoft Word template for the graduation paper from Tsinghua Univers
 
 Just open the `.docx` file and edit!
 
+***Remark***  It seems that there are bugs about the font style settings of Microsoft Word. Even if I have changed  the default style of "正文" (Normal), there are cases where, say, after you type a formula with built-in Word formula tool and you continue to write the successive description part, the font then is “等线” (sans-serif) instead of “宋体” (Song typeface) and the displayed font style is still "Normal". I have not found any feasible solution to this problem but there is a manual fallback. You can just bind keyboard shortcuts to "Normal" style and once the aforementioned problem takes place, you could immediately change it to the right font style. 
+
 ### Additional Information
 
 #### Font
