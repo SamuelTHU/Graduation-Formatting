@@ -10,6 +10,8 @@ Just open the `.docx` file and edit!
 
 ***Remark***  It seems that there are bugs about the font style settings of Microsoft Word. Even if I have changed  the default style of "正文" (Normal), there are cases where, say, after you type a formula with built-in Word formula tool and you continue to write the successive description part, the font then is “等线” (sans-serif) instead of “宋体” (Song typeface) and the displayed font style is still "Normal". I have not found any feasible solution to this problem but there is a manual fallback. You can just bind keyboard shortcuts to "Normal" style and once the aforementioned problem takes place, you could immediately change it to the right font style. 
 
+***Assertion!*** According to the official file of the literature of the graduation manuscript, YOU SHOULD include a graph index page and a table index page, respectively. But in the previous versions (v1.0 and before), I did not include those in the `docx` file. Therefore, I strongly recommend you use the newest version or manually add the two pages. 
+
 ### Additional Information
 
 #### Font
